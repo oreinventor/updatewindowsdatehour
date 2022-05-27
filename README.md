@@ -1,6 +1,7 @@
 # updatewindowsdatehour
 Get the time from the internet with silent batch script
 
+01-06-22
 Finnaly got this to work propperly.
 
 1) You need internet connection
